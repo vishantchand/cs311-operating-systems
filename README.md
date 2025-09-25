@@ -37,10 +37,7 @@ Watch the full recorded practical demonstration on YouTube:
 - **Virtualization:** Oracle VirtualBox 
 - **Guest OS:** Android (32/64-bit), Windows Server 2022, Windows 10/11
 
-
 ---
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/cs311-operating-systems.git
+GitHub Repository Owner: Vishant Chand
+GitHub: github.com/vishantchand
