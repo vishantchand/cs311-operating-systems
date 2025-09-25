@@ -38,7 +38,5 @@ Watch the full recorded practical demonstration on YouTube:
 - **Guest OS:** Android (32/64-bit), Windows Server 2022, Windows 10/11
 
 ---
-
-GitHub Repository Owner: Vishant Chand
-GitHub: github.com/vishantchand
-
+**GitHub Repository Owner:** Vishant Chand  
+**GitHub:** [github.com/vishantchand](https://github.com/vishantchand)
