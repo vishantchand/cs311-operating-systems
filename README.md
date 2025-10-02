@@ -4,7 +4,7 @@ Assignment 2 focuses on **virtualization** using **Oracle VirtualBox** with Andr
 
 ---
 
-## 📝 Assignment 2 Overview
+## Assignment 2 Overview
 **Objective:**  
 Deploy and configure multiple virtual machines to explore virtualization concepts and OS features.
 
@@ -26,14 +26,14 @@ Deploy and configure multiple virtual machines to explore virtualization concept
 
 ---
 
-## 🎥 Practical Demonstration Video
+## Practical Demonstration Video
 Watch the full recorded practical demonstration on YouTube:  
-👉 [**CS311 Assignment 2 – Practical Walkthrough**](https://www.youtube.com/playlist?list=PLIkQGcEEajaEWuJvHXlly1Ba8oDRm4WeS)
+[**CS311 Assignment 2 – Practical Walkthrough**](https://www.youtube.com/playlist?list=PLIkQGcEEajaEWuJvHXlly1Ba8oDRm4WeS)
 
 
 ---
 
-## 🛠️ Tools & Environment
+## Tools & Environment
 - **Virtualization:** Oracle VirtualBox 
 - **Guest OS:** Android (32/64-bit), Windows Server 2022, Windows 10/11
 
